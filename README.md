@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mosas2000
+- 👋 Hi, I’m @0xMosas
 - 👀 I’m interested in Blockchain technology 
 - 🌱 I’m currently learning with web3bridge as an IT student
 - 💞️ I’m looking to collaborate on ...
