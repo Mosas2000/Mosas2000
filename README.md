@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @0xMosas
-- 👀 I’m interested in Blockchain technology 
-- 🌱 I’m currently learning and scaling with web3bridge
+- 👀 A Blockchain Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on X (twitter)  @0xMosas
 <!---
