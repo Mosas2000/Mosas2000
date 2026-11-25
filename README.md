@@ -1,5 +1,6 @@
-- Hi, I’m @0xMosas
+- Hi, I’m @Muhammed
 - A Blockchain Developer
+- Security Researcher Web2 / Web3
 - Open to collaboration and growth
 - How to reach me on X (twitter)  @0xMosas
 <!---
